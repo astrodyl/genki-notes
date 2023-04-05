@@ -1,2 +1,2 @@
-# genki-notes
-A collection of notes from my Genki studies
+# Genki Notes and Prace Problems
+See the wiki for practice problems
